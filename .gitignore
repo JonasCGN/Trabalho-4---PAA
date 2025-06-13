@@ -1,0 +1,7 @@
+.venv
+venv
+resultados/*
+imagem
+*.png
+*.exe
+__pycache__
